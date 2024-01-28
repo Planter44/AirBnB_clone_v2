@@ -2,3 +2,6 @@
 """Starting the Flask web
 """
 from flask import Flask
+
+
+app = Flask
